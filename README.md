@@ -9,8 +9,11 @@ Este repositório contêm o código fonte de minha experiência pessoal com o Bo
     Requisitos Funcionais
   </summary>
   [ ] Podem ser cadastrados restaurantes e suprimentos
+
   [ ] Deve ser possível visualizar informações de um suprimento
+
   [ ] Deve ser gerada uma relação dos itens a vencer toda semana, para cada um dos restaurantes
+  
   [ ] A relação de itens deve ser enviada para o email do restaurante
 </details>
 
